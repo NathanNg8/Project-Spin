@@ -6,7 +6,7 @@ No frameworks, no build step, no dependencies. Open `index.html` in a browser.
 
 ## Demo
 
-![Project Spin demo](assets/demo.gif)
+<img src="assets/demo.gif" alt="Project Spin demo" width="100%">
 
 *Pulling the handle: the reel blurs through the filler ideas, lands on five new titles, and highlights the middle one as the winner.*
 
